@@ -15,4 +15,4 @@ function reverse( number ) {
 // Test
 reverse( 123456 ); // Result 654321
 reverse( 568954 ); // Result 459865
-reverse( 12345.1045 ); // Result 5401.54321
+reverse( 12345.104 ); // Result 401.54321
