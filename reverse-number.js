@@ -8,7 +8,7 @@ function reverse( number ) {
     // Add to result in reverse order
     result += number.charAt( ( number.length - 1 - i ) );
   }
-  // Parse string to integer else return undefined
+  // Return inverted string in parsed float format else return undefined
   return parseFloat( result ) || undefined;
 };
 
